@@ -2,7 +2,7 @@
 - 19년의 끝을 마주하며 그간 했던 프로젝트들을 정리 및 이력 관리
 
 ### Publicatoin
-- [Convergence Analysis of the Sanitation Index for 158 Countries](https://www.researchgate.net/publication/336372718_Convergence_Analysis_of_the_Sanitation_Index_for_158_Countries)
+- [Convergence Analysis of the Sanitation Index for 158 Countries](https://www.researchgate.net/publication/336372718_Convergence_Analysis_of_the_Sanitation_Index_for_158_Countries), co-author
 
 ### Collaboration Projects
 - Big Contest 2019: NCSOFT User Churn Prediction

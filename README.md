@@ -1,6 +1,9 @@
 # 2017-2019 Projects
 - 19년의 끝을 마주하며 그간 했던 프로젝트들을 정리 및 이력 관리
 
+### Curriculum Vitae
+- [My CV](https://github.com/jinmang2/2017-2019_projects/blob/master/cv_myunghoonjin.pdf)
+
 ### Publication
 - [Convergence Analysis of the Sanitation Index for 158 Countries](https://www.researchgate.net/publication/336372718_Convergence_Analysis_of_the_Sanitation_Index_for_158_Countries), co-author
 

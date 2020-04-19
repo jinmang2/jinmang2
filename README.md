@@ -1,5 +1,5 @@
-# 2017-2019 Projects
-- 19년의 끝을 마주하며 그간 했던 프로젝트들을 정리 및 이력 관리
+# Introduction
+- 저를 소개합니다 :smile:
 
 ### Curriculum Vitae
 - [My CV](https://github.com/jinmang2/2017-2019_projects/blob/master/cv_myunghoonjin.pdf)

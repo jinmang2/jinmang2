@@ -1,25 +1,17 @@
-**진명훈입니다 :)**
+# 진명훈
+- 기술과 현업의 편차를 줄이는 적정 기술을 개발 및 연구에 집중하고 있습니다.
 
-기술과 현업의 편차를 줄이는 적정 기술을 개발 및 연구하는 것에 관심이 있습니다ㅎㅎ
-
-현재 진행 중인 프로젝트는 이렇습니다.
+## 현재 진행 중인 프로젝트
 - 긍부정 감정 분류 API Web으로 서비스 (실제 현업에 제공 ex> 손보사, 쇼핑몰, 병원)
 - AI를 활용한 챗봇 구축에 들어가는 인간의 작업 최소화 및 자동화
 - STT 품질 개선
 
-추가로 관심갖고 공부, 연구하는 분야는 또 이렇습니다 :)
-- Convex Optimization
-- Reinforcement Learning (NLG에 적용을 목표로!)
-- Natural Language Processing
-  - Deep NLP
-  - Voice Recognition
-  - Traditional NLP
-  
-뮤지컬을 취미로 하고있으며 다양한 사람들과 교제하는 일을 즐거워합니다!
+## 스터디 -ing
+- 단단한 Machine Learning
+- Calculus
 
-아직 부족한 GitHub이지만, **누구나가 함께 일하고 싶은 인재**를 목표로 정진하고 있습니다!
-
-읽어주셔서 감사합니다.
+---
+## 이전 활동들
 
 ### Curriculum Vitae
 - [My CV](https://github.com/jinmang2/2017-2019_projects/blob/master/cv_myunghoonjin.pdf)

@@ -11,6 +11,16 @@
 - Calculus
 - Mathematics For Machine Learning (for POSTECH)
 
+## Interests
+
+1. Research & Study
+  - `Conversational AI`, `Speech Recognition`, `Cognitive Science`, `Optimization`, `Natural Language Generation`, `Meta-Learning`, `Measure Theorey for ML`, `Korean Language Processing`
+  - Focus `Natural Text`, `Sound` in NLP!
+
+2. Hobbies
+  - `Musical`, `Actor`, `Rock Band`, `Walk`
+  - Musical Dream Workers 15, Mamma Mia! - Sam Carmichael
+
 ---
 ## 이전 활동들
 

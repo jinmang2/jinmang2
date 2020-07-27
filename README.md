@@ -9,6 +9,7 @@
 ## 스터디 -ing
 - 단단한 Machine Learning
 - Calculus
+- Mathematics For Machine Learning (for POSTECH)
 
 ---
 ## 이전 활동들

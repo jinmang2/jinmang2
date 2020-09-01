@@ -1,15 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinmang2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 현재 진행 중인 프로젝트
-- 긍부정 감정 분류 API Web으로 서비스 (실제 현업에 제공 ex> 손보사, 쇼핑몰, 병원)
-- AI를 활용한 챗봇 구축에 들어가는 인간의 작업 최소화 및 자동화
-- 다중 감정 분석기 Renewal (t2snet)
-- STT 품질 개선
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinmang2)](https://github.com/anuraghazra/github-readme-stats)
 
-## 스터디 -ing
-- 단단한 Machine Learning
-- Calculus
-- Mathematics For Machine Learning (for POSTECH)
 
 ## Interests
 

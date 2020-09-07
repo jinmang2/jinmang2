@@ -6,8 +6,7 @@
 ## Interests
 
 1. Research & Study
-    - `Conversational AI`, `Speech Recognition`, `Cognitive Science`, `Optimization`, `Natural Language Generation`, `Meta-Learning`, `Measure Theorey for ML`, `Korean Language Processing`
-    - Focus `Natural Text`, `Sound` in NLP!
+    - `Conversational AI`, `Financial Engineering`, `Natural Language Generation`, `Speech Recognition`, `Optimization`, `Meta-Learning`, `Measure Theorey for ML`
 
 2. Hobbies
     - `Musical`, `Actor`, `Rock Band`, `Walk`

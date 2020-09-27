@@ -1,5 +1,7 @@
 # PyTorch 성애자
 
+[Awesome-Papers for my interests](https://github.com/jinmang2/Awesome-Papers)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinmang2&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinmang2)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,10 +19,7 @@
     - 김기현 NLP pytorch
     - Mathematics for Machine Learning
     - AFPK 자격증
-- 행복한 사람이 되고싶다 :) 절대적인 내 기준을 가진 ㅎㅎ
-    - 그리고 그 행복을 내 사람에게 나눠주고 싶다!
 - 취미 미술 vs 피아노 vs 버스킹 중 `뮤지컬 재개할 때 까지 / 끝나고`할 취미 탐색 중
-- 오카톡 커뮤니티 활발하게 활동 중
 
 ## Interests
 

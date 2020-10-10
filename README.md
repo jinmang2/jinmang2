@@ -13,8 +13,7 @@
 - MemN2N torch 구현 -> 간단한 대화모델에 적용
 - Open Domain Chatbot
 - Financial Engineering: 파생상품 평가모델 구현
-- 강화학습 자연어 형태소 환경 만들기
-- 취미 미술 vs 피아노 vs 버스킹 중 `뮤지컬 재개할 때 까지 / 끝나고`할 취미 탐색 중
+
 
 ## Interests
 

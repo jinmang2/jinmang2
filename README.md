@@ -5,7 +5,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinmang2)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 최근 연구 및 프로젝트 주제 및 관심사 (`20.09.10 기준)
-- 유사 질의 생성
 - 감정 분석 Web Service
 - MRT for NMT 구현 -> 간단한 대화모델에 적용
 - MemN2N torch 구현 -> 간단한 대화모델에 적용

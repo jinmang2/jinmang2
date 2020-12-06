@@ -4,19 +4,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jinmang2)](https://github.com/anuraghazra/github-readme-stats)
 
-## 최근 연구 및 프로젝트 주제 및 관심사 (`20.09.10 기준)
-- 감정 분석 Web Service
-- MRT for NMT 구현 -> 간단한 대화모델에 적용
-- MemN2N torch 구현 -> 간단한 대화모델에 적용
-- Open Domain Chatbot
-- Financial Engineering: 파생상품 평가모델 구현
-
-
 ## Interests
-
-1. Research & Study
-    - `Conversational AI`, `Financial Engineering`, `Natural Language Generation`, `Speech Recognition`, `Optimization`, `Meta-Learning`, `Measure Theorey for ML`
-
-2. Hobbies
-    - `Musical`, `Actor`, `Rock Band`, `Walk`
-    - Musical Dream Workers 15, Mamma Mia! - Sam Carmichael
+`Conversational AI`, `Financial Engineering`, `Natural Language Generation`, `Speech Recognition`, `Optimization`, `Meta-Learning`, `Measure Theorey for ML`

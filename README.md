@@ -7,9 +7,8 @@
 ```
 @jinmang2
 Interested in [
-    "Natural Language Inference",
     "Sentiment Analysis with topic modeling",
     "chatbot research",
-    "Deep Reinforcement Learning for Dialogue Management",
+    "Deep Reinforcement Learning",
 ]
 ```

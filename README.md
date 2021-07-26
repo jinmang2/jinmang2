@@ -9,7 +9,7 @@
 Interested in [
     "Natural Language Inference",
     "Sentiment Analysis with topic modeling",
-    "Facebook style chatbot research",
+    "chatbot research",
     "Deep Reinforcement Learning for Dialogue Management",
 ]
 ```
